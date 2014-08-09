@@ -1,0 +1,102 @@
+
+.nav-wrapper{
+
+height: 70px;
+
+}
+.row-fuild{
+    height: 60px;
+   
+
+}
+.navbar{
+
+	-webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0;
+	background:green;
+	border:none;
+	
+}
+.xp1 {
+
+    font-size:14px;
+    color: #333333;   
+}
+.xp {
+	
+	font-size: 16px;
+    color: #FF9900;
+    font-weight:100;
+}
+@media (min-width: 600px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+    .xp1{
+    font-size: 25px;
+    
+    }
+    .xp{
+    font-size:28px;
+    
+    }
+}
+
+.search-bar{
+
+	background: #7DBE32;
+ }
+ .nav-links{
+ 
+	font-size: 16px;
+
+ }
+.footer{
+
+ height: 100px;
+ background:#333333;
+
+}
+.glyphicon-home{
+
+	font-size:22px;
+	color: #00FF00;
+
+}
+.navbar .nav > li > a {
+
+    color:  #fff;
+}
+.brand-name{
+
+	color:  #fff;
+	font-size: 20px;
+
+}
+.carousel-cont{
+
+	width: 800px;
+	margin: 0 auto; 
+	margin-bottom: 500px;
+	
+	
+	
+	
+}
+.carousel-inner{
+	margin-top:3px;
+}
+.carousel-div-wrapper{
+	
+	background-color: #003300;
+
+}
+.header-container{
+    box-shadow: 0 4px 4px -2px #232323;
+    -moz-box-shadow: 0 4px 4px -2px #232323;
+    -webkit-box-shadow: 0 4px 4px -2px #232323;
+}
